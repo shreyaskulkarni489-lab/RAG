@@ -1,0 +1,16 @@
+# CampusMind - Academic Calendar 2026-2027
+
+## 1. Autumn Semester 2026
+- Orientation & Registration: August 1, 2026
+- Commencement of Classes: August 5, 2026
+- Mid-Semester Examinations: October 12, 2026 – October 18, 2026
+- Autumn Break: October 19, 2026 – October 25, 2026
+- End-Semester Examinations: December 1, 2026 – December 15, 2026
+- Winter Vacation: December 16, 2026 – January 3, 2027
+
+## 2. Spring Semester 2027
+- Registration: January 4, 2027
+- Commencement of Classes: January 5, 2027
+- Mid-Semester Examinations: March 8, 2027 – March 14, 2027
+- Annual Tech Fest (MindHacks): April 2, 2027 – April 4, 2027
+- End-Semester Examinations: May 10, 2027 – May 24, 2027

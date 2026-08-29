@@ -1,0 +1,24 @@
+# CampusMind - B.Tech CSE Admission Brochure 2026
+
+## 1. Overview & Eligibility
+Welcome to CampusMind College of Engineering and Technology.
+The B.Tech Computer Science and Engineering (CSE) program offers state-of-the-art education in Software Engineering, AI/ML, Cybersecurity, and Cloud Computing.
+
+### Eligibility Criteria:
+- Candidates must have completed 10+2 or equivalent examination from a recognized board.
+- Minimum 60% aggregate in Physics, Chemistry, and Mathematics (PCM).
+- Candidates must possess a valid JEE Main or State Entrance Exam score.
+
+## 2. Fee Structure & Payment
+- Annual Tuition Fee: $4,500 per academic year.
+- Development Fee: $500 per academic year.
+- Refund Policy: 100% tuition refund if withdrawn 15 days before the academic session commences. 50% refund within the first 30 days.
+
+## 3. Scholarships & Financial Aid
+- Merit Scholarship: 100% tuition fee waiver for students scoring in the top 1% of JEE Main.
+- Need-based Aid: Available for family annual income under $10,000 upon submitting income proof.
+
+## 4. Contact Information
+- Admissions Office: Building A, Room 102
+- Email: admissions@campusmind.edu
+- Phone: +1-800-555-COLLEGE
