@@ -7,7 +7,7 @@ import { useRouter } from 'next/navigation';
 import { Upload, FileText, Trash2, CheckCircle2, AlertCircle, Clock, Plus, Shield } from 'lucide-react';
 
 export default function AdminPage() {
-  const { user, token } = useAuth();
+  const { user, token, logout } = useAuth();
   const router = useRouter();
 
   const [documents, setDocuments] = useState<DocumentItem[]>([]);
@@ -35,6 +35,10 @@ export default function AdminPage() {
       const res = await fetch('/api/admin/documents', {
         headers: { Authorization: `Bearer ${token}` }
       });
+      if (res.status === 401) {
+        logout();
+        return;
+      }
       if (res.ok) {
         const data = await res.json();
         setDocuments(data);
@@ -65,6 +69,12 @@ export default function AdminPage() {
         },
         body: formData,
       });
+
+      if (res.status === 401) {
+        setMessage('Session token expired. Redirecting to login...');
+        setTimeout(() => logout(), 1200);
+        return;
+      }
 
       const responseText = await res.text();
       let data: any = {};
